@@ -1,0 +1,22 @@
+
+.opt {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 20px;
+  }
+  
+  .dropdown {
+    
+    margin-left: 50%; 
+  }
+  .btn{
+    height: 50px;
+  }
+  
+  .search-bar {
+    width: 300px;
+  }
+  
